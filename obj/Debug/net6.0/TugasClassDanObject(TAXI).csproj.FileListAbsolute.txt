@@ -1,0 +1,15 @@
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\TugasClassDanObject(TAXI).csproj.AssemblyReference.cache
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\TugasClassDanObject(TAXI).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\TugasClassDanObject(TAXI).AssemblyInfoInputs.cache
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\TugasClassDanObject(TAXI).AssemblyInfo.cs
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\TugasClassDanObject(TAXI).csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\bin\Debug\net6.0\TugasClassDanObject(TAXI).exe
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\bin\Debug\net6.0\TugasClassDanObject(TAXI).deps.json
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\bin\Debug\net6.0\TugasClassDanObject(TAXI).runtimeconfig.json
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\bin\Debug\net6.0\TugasClassDanObject(TAXI).dll
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\bin\Debug\net6.0\TugasClassDanObject(TAXI).pdb
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\TugasClassDanObject(TAXI).dll
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\refint\TugasClassDanObject(TAXI).dll
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\TugasClassDanObject(TAXI).pdb
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\TugasClassDanObject(TAXI).genruntimeconfig.cache
+C:\Users\acer\Documents\C#\TugasClassDanObject(TAXI)\obj\Debug\net6.0\ref\TugasClassDanObject(TAXI).dll
